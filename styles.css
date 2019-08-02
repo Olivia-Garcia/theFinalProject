@@ -1,0 +1,65 @@
+h1{
+  display:flex;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+}
+.bckColor{
+  background-color: #FFF7F2;
+}
+nav {
+  float: left;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+container {
+font-size: 40px
+}
+
+h3 {
+  padding:40px;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #75ABBC;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+}
+.mission{
+  padding: 20px;
+}
+
+.carPrep {
+padding: 40px
+}'
+'
+img{
+  height: 200px;
+  width:200px;
+  object-fit: cover;
+  display:flex;
+  justify-content: space-around;
+  display:inline-block;
+}
